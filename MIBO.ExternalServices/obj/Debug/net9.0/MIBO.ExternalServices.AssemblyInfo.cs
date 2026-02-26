@@ -27,7 +27,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MIBO.ExternalServices")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9737ef9e88b5b1b3fca04495966efb52d0a575b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MIBO.ExternalServices")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MIBO.ExternalServices")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

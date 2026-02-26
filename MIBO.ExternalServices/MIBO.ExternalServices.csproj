@@ -8,4 +8,8 @@
         <UserSecretsId>0892457f-564b-449c-924b-6f85131ce953</UserSecretsId>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="System.Linq.Dynamic.Core" Version="1.7.1" />
+    </ItemGroup>
+
 </Project>
